@@ -1,14 +1,13 @@
 # [Proposal] Selecting basline
     
-:::info
+
 :bulb: Using the analysis to select the most suitable work as the baseline (to improve further with)
-:::
+
   
 ## Analysis 
-  
-:::success
-Comparision between Diffusion model based Segmentation works 
-::: 
+ 
+### Comparision between Diffusion model based Segmentation works 
+
     
 | Name | Code availablity | General___Comments  | Dataset used | Published or not |  Performance (in mIoU, of cityscapes or common dataset) | Input modality |
 |:----------------------:|:-------------------:|:------------:|:-------------:|:--------------:|:----------------------:|:--------------------:|
